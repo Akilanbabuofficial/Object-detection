@@ -22,17 +22,3 @@ A powerful **real-time object detection system** built using **Python** and **Op
 - **Tools:** NumPy, cv2
 
 ---
-
-## 🎥 Demo
-
-> *(Optional: Add GIF or short video of your object detection in action)*  
-> ![demo](assets/demo.gif)
-
----
-
-## 🧪 How to Run
-
-```bash
-git clone https://github.com/Akilanbabuofficial/Object-detection
-cd Object-detection
-python object_detection.py
